@@ -21,6 +21,7 @@ repositorio oficial. No confíes en copias distribuidas por otros medios.
 | **Versión actual** | v1.0.0 |
 | **Archivo** | `DMQ Ovitrampas Monitor.exe` |
 | **Sistema operativo** | Windows 10 o superior (64 bits) |
+| **SHA-256** | `7BDE5679F6EA47DE629F4793EB34A45D7F80954DD431DCAAD43C8C3578EF4E11` |
 
 Verifica la integridad del archivo con el hash SHA-256 publicado en cada release
 (ver [instrucciones](docs/instalacion.md#verificar-la-integridad)).
